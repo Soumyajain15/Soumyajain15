@@ -36,13 +36,9 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.uipath.com/rpa" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/RPA_2023_Logo.svg" alt="RPA" width="40" height="40"/>
+ <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.cdnlogo.com/logos/u/15/uipath.svg" alt="UiPath" width="40" height="40"/>
 </a>
-<a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-  <img src="https://seekvectorlogo.com/wp-content/uploads/2020/07/uipath-vector-logo.svg" alt="UiPath" width="40" height="40"/>
-</a>
-
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
