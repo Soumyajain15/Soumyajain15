@@ -131,13 +131,3 @@ Here are some ideas to get you started:
 
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Soumyajain15.Soumyajain15.svg)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajain15&theme=radical&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
-![](https://github-readme-stats.vercel.app/api?username=Soumyajain15&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyajain15&theme=radical&hide_border=false&cache_seconds=86400)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soumyajain15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![views](https://img.shields.io/badge/Views-∞-brightgreen)
