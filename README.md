@@ -1,4 +1,3 @@
-bahi isme duplicate hata de yar 
 <!--
 **Soumyajain15/Soumyajain15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
