@@ -125,7 +125,10 @@ Here are some ideas to get you started:
 
 <br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soumyajain15&theme=radical&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Soumyajain15&theme=radical&no-bg=true&margin-w=10" />
+
+## 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=Soumyajain15&label=Profile%20views&color=0e75b6&style=flat" />
 
 ## 👀 Views since 2023/06/14
 ![](https://visitor-badge-deno.deno.dev/Soumyajain15.Soumyajain15.svg)
